@@ -47,10 +47,5 @@ The results of the item extraction and classification process will be presented 
 ## Future Enhancements
 Potential future enhancements for this project include:
 
-1. **Improved OCR Accuracy**: Exploring advanced OCR techniques or using specialized OCR engines to improve the accuracy of text extraction from the scanned PDF documents.
-2. **Enhanced Classification Model**: Developing a more sophisticated classification model, potentially using machine learning techniques, to improve the accuracy of the item categorization.
-3. **Integration with External Data Sources**: Integrating the extracted item details with external data sources, such as medical supply databases or pricing information, to enrich the analysis and decision-making process.
-4. **Visualization and Reporting**: Implementing data visualization and reporting capabilities to provide meaningful insights and actionable recommendations based on the extracted and classified item data.
-
 ## Conclusion
 This project demonstrates the application of OCR, language models, and custom classification systems to extract and categorize item details from scanned bill of items documents. The insights and findings from this project can be used to streamline inventory management, optimize medical supply procurement, and enhance overall operational efficiency in the healthcare sector.
