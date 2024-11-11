@@ -3,7 +3,7 @@
 # Medical details Extraction and Classification
 
 ## Objective
-The objective of this project is to extract items and their details from a scanned bill of items document, and then classify those items as either medical or non-medical.
+The objective of this project is to create structured data of details from a scanned bill of items document, and then classify data as either medical or non-medical.
 
 ## Overview
 This project uses a combination of OCR (Optical Character Recognition), language models, and a custom classification system to achieve the desired outcome. The key steps involved are:
