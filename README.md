@@ -8,6 +8,9 @@ The objective of this project is to create structured data of details from a sca
 ## Overview
 This project uses a combination of OCR (Optical Character Recognition), language models, and a custom classification system to achieve the desired outcome. The key steps involved are:
 
+## Demo Video
+[link to video](https://drive.google.com/file/d/1jtztiwd6bRGA_IF3koM-AZhyD2_QWMJC/view?usp=sharing)
+
 1. **PDF Extraction**: The text content is extracted from the scanned PDF document using OCR techniques.
 2. **Text Preprocessing**: The extracted text is cleaned and formatted to prepare it for further processing.
 3. **Embedding Generation**: The cleaned text is converted into embeddings using a language model, which allows for efficient storage and retrieval of the document content.
