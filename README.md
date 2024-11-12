@@ -5,11 +5,11 @@
 ## Objective
 The objective of this project is to create structured data of details from a scanned bill of items document, and then classify data as either medical or non-medical.
 
-## Overview
-This project uses a combination of OCR (Optical Character Recognition), language models, and a custom classification system to achieve the desired outcome. The key steps involved are:
-
 ## Demo Video
 [link to video](https://drive.google.com/file/d/1jtztiwd6bRGA_IF3koM-AZhyD2_QWMJC/view?usp=sharing)
+
+## Overview
+This project uses a combination of OCR (Optical Character Recognition), language models, and a custom classification system to achieve the desired outcome. The key steps involved are:
 
 1. **PDF Extraction**: The text content is extracted from the scanned PDF document using OCR techniques.
 2. **Text Preprocessing**: The extracted text is cleaned and formatted to prepare it for further processing.
